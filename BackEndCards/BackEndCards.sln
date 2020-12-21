@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEndCards", "BackEndCards.csproj", "{95AD3828-2D5E-45A6-B0C2-3D4198A37984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95AD3828-2D5E-45A6-B0C2-3D4198A37984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AD3828-2D5E-45A6-B0C2-3D4198A37984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AD3828-2D5E-45A6-B0C2-3D4198A37984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AD3828-2D5E-45A6-B0C2-3D4198A37984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52A3CAFE-781F-40C0-B0E4-7D68EEC7BFD5}
+	EndGlobalSection
+EndGlobal

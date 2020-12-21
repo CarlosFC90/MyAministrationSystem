@@ -1,0 +1,10 @@
+<app-header></app-header>
+<h1 style="text-align: center; margin-top: 15px;"><u> Users Administration</u></h1>
+
+<div class="card m-5" style="width: 18rem;" *ngIf="userDetails">
+    <ul class="list-group">
+        <li class="list-group-item"><strong>UserName: </strong> {{ userDetails.userName }}</li>
+        <li class="list-group-item"><strong>FullName: </strong> {{ userDetails.fullName }}</li>
+        <li class="list-group-item"><strong>Email: </strong> {{ userDetails.email }}</li>
+    </ul>
+</div>
